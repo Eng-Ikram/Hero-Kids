@@ -1,0 +1,100 @@
+/* My codes */
+.fon-st {
+    font-size: 25px;
+
+}
+
+.tit-fo {
+    font-size: 53px;
+}
+
+img.img-fluid.team {
+    height: 230px !important;
+    width: 230px !important;
+    object-fit: cover;
+}
+
+.container .search-box {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.container .search-box input {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.container .search-box i {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.post-list {
+    padding: 20px 0;
+
+}
+
+.con-posts {
+    overflow-y: scroll;
+}
+
+.con-posts::-webkit-scrollbar {
+    display: none;
+}
+
+.post {
+    /* display:flex; */
+    /* align-items: center; */
+    /* padding: 15px; */
+    /* width: 100%; */
+}
+
+.post img {
+    width: 500px;
+    height: 190px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    object-fit: cover;
+    width: 100%;
+}
+
+img.img-fluid.service {
+    height: 230px !important;
+    width: 230px !important;
+}
+
+img.img-fluid.case {
+    height: 230px !important;
+    width: 230px !important;
+}
+
+.project-item.item {
+    height: 450px !important;
+}
+
+.logo img {
+    width: 55px;
+    height: auto;
+    /* margin: 5px; */
+    /* padding: 20px; */
+}
+.logo{
+    margin: 15px;
+    margin-left: 0;
+}
